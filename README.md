@@ -1,3 +1,6 @@
+$ sudo service --status-all 
+$ sudo service docker start
+
 # honeygain-one-click-command-installation
 
 ## Language
